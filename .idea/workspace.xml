@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e4f7458-f107-49a2-ab3c-ad032f350b9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-basics/target/kafka-basics-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-basics/target/kafka-basics-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-basics/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-basics/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/src/main/java/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elastic/src/main/java/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/target/classes/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/target/classes/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elastic/target/classes/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/target/kafka-consumer-elastic-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elastic/target/kafka-consumer-elastic-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elastic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-elastic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-elastic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/src/main/java/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/src/main/java/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/com/github/itunc/kafka/bcourse/tutorial2/TwitterProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/kafka-producer-tweeter-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/target/kafka-producer-tweeter-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFp1CgMFvBxYzXf2SsOPjpmVv1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/env.yaml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tutorial3" />
+      <recent name="tutorial2" />
+      <recent name="com.github.itunc.kafka.bcourse.tutorial2" />
+      <recent name="com.github.itunc.kafka.bcourse.tutorial1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tunch\dev\__TLearning\kafka-beginners-course" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ElasticSearchConsumer">
+    <configuration name="ElasticSearchConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.itunc.kafka.bcourse.tutorial3.ElasticSearchConsumer" />
+      <module name="kafka-consumer-elastic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.itunc.kafka.bcourse.tutorial3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="yaml" PATH="env.yaml" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.itunc.kafka.bcourse.tutorial2.TwitterProducer" />
+      <module name="kafka-producer-twitter" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.itunc.kafka.bcourse.tutorial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+          <ENTRY IS_ENABLED="true" PARSER="yaml" PATH="env.yaml" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.itunc.kafka.bcourse.tutorial2.TwitterProducer" />
+      <module name="kafka-producer-twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.itunc.kafka.bcourse.tutorial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TwitterProducer" />
+      <item itemvalue="Application.ElasticSearchConsumer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElasticSearchConsumer" />
+        <item itemvalue="Application.TwitterProducer" />
+        <item itemvalue="Application.TwitterProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e4f7458-f107-49a2-ab3c-ad032f350b9f" name="Default Changelist" comment="" />
+      <created>1586340979040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586340979040</updated>
+      <workItem from="1586340984217" duration="25521000" />
+      <workItem from="1586435765680" duration="1484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2172" y="366" key="#Project_Structure" timestamp="1586341704191">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2172" y="366" key="#Project_Structure/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586341704191" />
+    <state x="2034" y="363" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586437001370">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2034" y="363" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437001370" />
+    <state x="2385" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1586352153289">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2385" y="414" key="#com.intellij.ide.util.MemberChooser/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586352153289" />
+    <state x="2156" y="634" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586367387136">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2156" y="634" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586367387136" />
+    <state x="2381" y="594" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586367381296">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2381" y="594" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586367381296" />
+    <state x="2335" y="414" key="#xdebugger.evaluate" timestamp="1586382705460">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2335" y="414" key="#xdebugger.evaluate/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586382705460" />
+    <state x="2360" y="463" key="FileChooserDialogImpl" timestamp="1586436999219">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2360" y="463" key="FileChooserDialogImpl/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586436999219" />
+    <state width="3397" height="400" key="GridCell.Tab.0.bottom" timestamp="1586437095240">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="3397" height="400" key="GridCell.Tab.0.bottom/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437095240" />
+    <state width="3397" height="400" key="GridCell.Tab.0.center" timestamp="1586437095239">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="3397" height="400" key="GridCell.Tab.0.center/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437095239" />
+    <state width="3397" height="400" key="GridCell.Tab.0.left" timestamp="1586437095239">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="3397" height="400" key="GridCell.Tab.0.left/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437095239" />
+    <state width="3397" height="400" key="GridCell.Tab.0.right" timestamp="1586437095240">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="3397" height="400" key="GridCell.Tab.0.right/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437095240" />
+    <state width="1674" height="492" key="GridCell.Tab.1.bottom" timestamp="1586422273985">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="492" key="GridCell.Tab.1.bottom/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586422273985" />
+    <state width="1674" height="492" key="GridCell.Tab.1.center" timestamp="1586422273985">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="492" key="GridCell.Tab.1.center/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586422273985" />
+    <state width="1674" height="492" key="GridCell.Tab.1.left" timestamp="1586422273985">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="492" key="GridCell.Tab.1.left/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586422273985" />
+    <state width="1674" height="492" key="GridCell.Tab.1.right" timestamp="1586422273985">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state width="1674" height="492" key="GridCell.Tab.1.right/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586422273985" />
+    <state x="2083" y="354" key="SettingsEditor" timestamp="1586436305013">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2083" y="354" key="SettingsEditor/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586436305013" />
+    <state x="2288" y="532" key="com.intellij.ide.util.TipDialog" timestamp="1586435765694">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2288" y="532" key="com.intellij.ide.util.TipDialog/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586435765694" />
+    <state x="2310" y="467" key="extract.method.dialog" timestamp="1586352535008">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2310" y="467" key="extract.method.dialog/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586352535008" />
+    <state x="1962" y="409" key="new project wizard" timestamp="1586380419687">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1962" y="409" key="new project wizard/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586380419687" />
+    <state x="2322" y="330" key="refactoring.ChangeSignatureDialog" timestamp="1586352409320">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="2322" y="330" key="refactoring.ChangeSignatureDialog/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586352409320" />
+    <state x="1383" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1586437311434">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1383" y="317" width="672" height="678" key="search.everywhere.popup/3440.0.1463.806/0.0.3440.1410@0.0.3440.1410" timestamp="1586437311434" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-basics/src/main/java/com/github/itunc/kafka/bcourse/tutorial1/ConsumerDemoWithThread.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-consumer-elastic/src/main/java/com/github/itunc/kafka/bcourse/tutorial3/ElasticSearchConsumer.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RestClientBuilder.class</url>
+          <line>140</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
